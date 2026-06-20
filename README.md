@@ -30,4 +30,4 @@ Computer Science Graduate passionate about Artificial Intelligence, Machine Lear
 - Pursue a Master's degree in Japan
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/contactsameer
+- LinkedIn: https://www.linkedin.com/in/contactsameer-in
