@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sameer 👋
 
-<!--
-**sameerdsatm/sameerdsatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate passionate about Artificial Intelligence, Machine Learning, Generative AI, and Backend Development.
 
-Here are some ideas to get you started:
+## Research Interests
+- Generative AI
+- Large Language Models (LLMs)
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- Computer Vision
+- Medical Image Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- JavaScript
+- C++
+- LangChain
+- OpenAI API
+- MongoDB
+- Git
+
+## Experience
+- Generative AI Intern (Learner's Byte Global InfoVision)
+- Bharat Unnati AI Fellow
+
+## Current Goals
+- Build AI-powered applications
+- Contribute to Machine Learning projects
+- Pursue a Master's degree in Japan
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/contactsameer
