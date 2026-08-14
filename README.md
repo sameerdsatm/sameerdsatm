@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlignY=35&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Sameer%20S&fontSize=50&fontAlignY=35&fontColor=ffffff" width="100%" alt="Header Banner" />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%2F+ML+Specialist;Full-Stack+Developer;Product+Engineering" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;Generative+AI+Intern;Software+Engineer;AI+%2F+ML+Enthusiast" alt="Typing SVG" /></a>
 
   <br />
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Degree" />
+  <img src="https://img.shields.io/badge/B.E.-Computer%20Science-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Degree" />
   <img src="https://img.shields.io/badge/Bengaluru,%20India-Location-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <br /><br />
   
@@ -23,25 +23,22 @@
 
 ## 👨‍💻 About Me
 
-I am a highly motivated **Software Engineer** specializing in building robust, enterprise-grade systems with a core focus on **Artificial Intelligence and Machine Learning**. Leveraging a comprehensive background in **Full Stack Development**, I bring a strong **Product Engineering mindset** to architecture, ensuring technical solutions directly align with scalable business outcomes. 
-
-* 🔭 **Open To:** Senior Software Engineering roles, Applied AI/ML positions, and high-impact technical leadership opportunities.
-
+I am a Computer Science and Engineering Graduate at Dayananda Sagar Academy of Technology & Management, specializing in building robust systems with a core focus on Artificial Intelligence and Machine Learning. Leveraging experience as a Generative AI Intern, I bring a strong product engineering mindset to architecture, ensuring technical solutions like LLM-powered backends directly align with scalable outcomes. 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,go,rs&theme=dark" alt="Languages" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,c,cpp,mysql&theme=dark" alt="Languages" /></a>
 
 ### Frontend
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,wasm&theme=dark" alt="Frontend" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Frontend" /></a>
 
 ### Backend & Databases
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,postgres,mongodb,redis&theme=dark" alt="Backend and Databases" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and Databases" /></a>
 
 ### Cloud, DevOps & Tooling
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,githubactions,terraform&theme=dark" alt="Cloud and DevOps" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,aws,gcp&theme=dark" alt="Cloud and DevOps" /></a>
 
 ---
 
@@ -49,110 +46,100 @@ I am a highly motivated **Software Engineer** specializing in building robust, e
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Large Language Models (LLMs)** | Advanced | Prompt Engineering, Fine-tuning (LoRA/QLoRA), LangChain, RAG Pipelines |
-| **Computer Vision** | Advanced | Object Detection, Image Segmentation, PyTorch, OpenCV, YOLO Architectures |
-| **Natural Language Processing** | Advanced | Transformers, BERT, HuggingFace, Sentiment Analysis, NER |
-| **Predictive Modeling** | Intermediate | Scikit-Learn, XGBoost, Time Series Forecasting, Statistical Regression |
+| **Generative AI & LLMs** | Advanced | OpenAI API, LangChain, Prompt Engineering, RAG Pipelines |
+| **Computer Vision** | Intermediate | PyTorch, Image Segmentation, 3D CNNs |
+|g **Machine Learning** | Intermediate | Supervised Learning, SNN Models, Medical Imaging |
+| **Data Processing** | Intermediate | NumPy, PyWavelets, SimpleITK |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>Project Name: Enterprise AI Agent Platform</b></summary>
+<summary><b>RoadGuard ML</b></summary>
 <br>
-A scalable, multi-tenant AI agent platform designed to automate complex enterprise workflows using dynamic RAG pipelines and customized LLM deployments.
+Designed an alcohol detection and road safety system using sensors, trained on a dataset of 15,000 samples.[cite: 3]
 
 | Feature | Details |
 | :--- | :--- |
-| **Stack** | Python, FastAPI, React, PostgreSQL, Redis, Docker, AWS |
-| **Scale** | 10k+ Daily Active Users, 1M+ Requests/Day |
-| **Performance** | <200ms latency for embedding retrieval and vector search |
-| **Security** | OAuth 2.0, RBAC, End-to-End Encryption, SOC2 Compliant architecture |
-| **Impact** | Reduced operational overhead by 40% across 5 enterprise clients |
+| **Stack** | Python, Machine Learning, Cloud|
+| **Scale** | 15,000 dataset samples |
+| **Performance** | High accuracy Supervised SNN model |
+| **Security** | Secure cloud logging |
+| **Impact** | Remote monitoring and scalability for road safety |
 | **Repository** | [View Source Code](#) |
 
-*Professional Insight:* Architected the core vector search engine using pgvector and optimized the LLM inference pipeline, successfully reducing raw compute costs by 30% while maintaining absolute high availability.
+*Professional Project Explanation:* 
+Engineered an end-to-end ML pipeline utilizing a supervised SNN model to process sensor data for real-time alcohol detection[cite: 3]. Integrated seamless cloud logging capabilities to ensure remote monitoring, enhancing overall road safety and system scalability.
 </details>
 
 <details>
-<summary><b>Project Name: High-Frequency Trading Engine</b></summary>
+<summary><b>Prostate Cancer Detection</b></summary>
 <br>
-A low-latency algorithmic trading platform executing complex statistical arbitrage strategies across multiple centralized cryptocurrency exchanges.
+Built 3D CNN models for MRI-based cancer detection with a Dice score above 0.85
 
 | Feature | Details |
 | :--- | :--- |
-| **Stack** | C++, Rust, WebSockets, Kafka, TimescaleDB, AWS EC2 |
-| **Scale** | 50,000+ orders processed per second |
-| **Performance** | Sub-millisecond execution latency |
-| **Security** | VPC isolation, HMAC request signing, strict IP whitelisting |
-| **Impact** | Generated consistent alpha with a simulated Sharpe ratio of 2.1 |
+| **Stack** | Python, PyWavelets, NumPy, SimpleITK |
+| **Scale** | Volumetric MRI Data |
+| **Performance** | Dice score > 0.85 |
+| **Security** | Localized medical data processing |
+| **Impact** | Reliable tumor boundary visualization |
 | **Repository** | [View Source Code](#) |
 
-*Professional Insight:* Spearheaded the transition from Python to Rust for the core order matching engine, eliminating garbage collection pauses and drastically improving P99 latency.
+*Professional Project Explanation:* 
+Developed sophisticated 3D Convolutional Neural Networks (CNNs) dedicated to precise MRI-based prostate cancer detection. Implemented advanced wavelet-based denoising techniques for optimal feature extraction, and rigorously validated volumetric segmentation to guarantee reliable tumor boundary visualization.
 </details>
 
 ---
 
 ## 💼 Experience
 
-**Senior Software Engineer** | **Tech Innovators Inc.**
-*Jan 2022 – Present*
+**Generative AI Intern** | Learner’s Byte Global InfoVision
+*Jan 2026 – May 2026*
 
-Engineered high-throughput microservices and seamlessly integrated advanced machine learning models into production environments, driving significant and measurable business value.
+Focused on developing and deploying production-ready Generative AI solutions and scalable backend services.
 
-* Architected a distributed streaming pipeline processing 5TB+ of telemetry data daily using Kafka and Go.
-* Led a cross-functional team of 4 engineers to migrate legacy monolith systems to Kubernetes, achieving 99.99% uptime.
-* Deployed generative AI features that increased overall platform user engagement by 25%.
+* Completed the Bharat Unnati AI Fellowship, covering CodeXpert, Expertpedia, Generative AI, and Agentic AI.
+* Developed production-ready Generative AI applications using Python, OpenAI API, LangChain, Prompt Engineering and Retrieval-Augmented Generation (RAG).
+* Integrated LLM-powered REST APIs into backend services for scalable automation and deployment.
 
-`Python` `Go` `Kubernetes` `AWS` `TensorFlow` `System Design`
-
-**Software Engineer** | **DataFlow Systems**
-*Jun 2019 – Dec 2021*
-
-Developed highly scalable backend REST APIs and optimized complex relational database queries for a major global SaaS platform.
-
-* Redesigned the core robust authentication service, securely supporting over 2 million active sessions.
-* Implemented distributed caching strategies using Redis, successfully reducing API response times by 60%.
-* Collaborated closely with product managers to scope and deliver mission-critical features 2 weeks ahead of schedule.
-
-`Node.js` `PostgreSQL` `React` `Docker` `TypeScript`
+**Skills:** `Python` `OpenAI API` `LangChain` `Prompt Engineering` `RAG` `REST APIs` 
 
 ---
 
 ## 🏆 Achievements
 
-<div align="center">
-
 | Recognition | Details |
-| :---: | :--- |
-| **1st Place, Global Hackathon 2023** | Developed an AI-driven accessibility tool out of 500+ competing teams globally. |
-| **Open Source Contributor** | Merged 50+ PRs into major open-source repositories including TensorFlow and React. |
-| **Employee of the Year 2022** | Recognized by executive leadership for outstanding technical contributions and mentorship. |
-| **Top 1% on LeetCode** | Achieved a highly competitive global contest rating of 2200+ (Guardian Tier). |
-
-</div>
+| :--- | :--- |
+| **B.E. Computer Science and Engineering** | Dayananda Sagar Academy of Technology & Management (CGPA: 7.05)  |
+| **Pre-University Course (PCMB)** | Vision PU College (Score: 87.56%) |
+| **Secondary School Leaving Certificate** | Mandara Public School (Score: 94.57%)  |
 
 ---
 
 ## 📜 Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-8A2BE2?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certification" />
-  <img src="https://img.shields.io/badge/Oracle-Certified_Java_Programmer-4B0082?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certification" />
-  <img src="https://img.shields.io/badge/NPTEL-Deep_Learning_Elite-9400D3?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Certification" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Routing_&_Switching-483D8B?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification" />
-</div>
+### Oracle
+<img src="https://img.shields.io/badge/Oracle-Agentic%20AI%20Certified%20Foundations%20Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cert" /> 
+
+### IBM
+<img src="https://img.shields.io/badge/IBM%20SkillsBuild-AI%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cert" /> 
+
+### Microsoft & Others
+<img src="https://img.shields.io/badge/Microsoft-Data%20Analyst%20101-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Cert" /> 
+<img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge:%20AI%20Foundation-8A2BE2?style=for-the-badge" alt="TCS Cert" /> 
+<img src="https://img.shields.io/badge/be10X-AI%20Tools%20Workshop-4B0082?style=for-the-badge" alt="be10X Cert" /> 
 
 ---
 
-## 🧑‍💻 Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Top_1%25-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Institute_Rank_1-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Stars-9400D3?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-4_Stars-483D8B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-9400D3?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-483D8B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </div>
 
 ---
@@ -160,10 +147,10 @@ Developed highly scalable backend REST APIs and optimized complex relational dat
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameerdsatm&theme=tokyonight&hide_border=true&ring_color=8A2BE2&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerdsatm&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&background=00000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerdsatm&theme=tokyonight&hide_border=true&layout=compact&title_color=8A2BE2&text_color=ffffff&bg_color=00000000" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sameerdsatm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerdsatm&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerdsatm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages" width="50%" />
 </div>
 
 ---
@@ -171,7 +158,9 @@ Developed highly scalable backend REST APIs and optimized complex relational dat
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sameerdsatm&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sameerdsatm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
 ---
@@ -179,7 +168,7 @@ Developed highly scalable backend REST APIs and optimized complex relational dat
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerdsatm&theme=tokyo-night&color=8A2BE2&bg_color=00000000&hide_border=true&line=8A2BE2&point=ffffff" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerdsatm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=4B0082&point=FFFFFF" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -187,7 +176,7 @@ Developed highly scalable backend REST APIs and optimized complex relational dat
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sameerdsatm/sameerdsatm/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/sameerdsatm/sameerdsatm/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
@@ -195,16 +184,7 @@ Developed highly scalable backend REST APIs and optimized complex relational dat
 ## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced Retrieval-Augmented Generation (RAG) architectures
-  - Rust optimization for high-performance concurrent systems
-Building:
-  - Open-source distributed task queue engine
-  - Secure personal finance tracking CLI
-Exploring:
-  - WebAssembly (Wasm) integration natively with edge computing
-  - Quantum machine learning fundamentals and algorithms
-Open To:
-  - Senior Backend and Distributed Engineering roles
-  - Applied AI/ML Research and Development positions
-  - High-impact, enterprise open-source collaborations
+Learning: "Advanced RAG Pipelines, Vector Databases, Microservices"
+Building: "Enterprise-grade Generative AI Agents"
+Exploring: "Evaluating technical value in internship opportunities"
+Open To: " Software Engineer or AI/ML Roles"
