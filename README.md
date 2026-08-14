@@ -144,42 +144,6 @@ Focused on developing and deploying production-ready Generative AI solutions and
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameerdsatm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerdsatm&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerdsatm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages" width="50%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sameerdsatm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerdsatm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=4B0082&point=FFFFFF" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sameerdsatm/sameerdsatm/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
