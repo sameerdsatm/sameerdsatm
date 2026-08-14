@@ -133,17 +133,6 @@ Focused on developing and deploying production-ready Generative AI solutions and
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-9400D3?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-483D8B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</div>
-
----
-
 
 ## 🎯 Current Focus
 
